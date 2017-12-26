@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Astro Orbitor" android:checkable="true"/>
+    <item android:title="Autopia" android:checkable="true"/>
+    <item android:title="Big Thunder Mountain Railroad" android:checkable="true"/>
+    <item android:title="Buzz Lightyear Astro Blasters " android:checkable="true"/>
+    <item android:title="Casey Jr. Circus Train" android:checkable="true"/>
+    <item android:title="Chip \'n Dale Treehouse" android:checkable="true"/>
+    <item android:title="Davy Crockett\'s Explorer Canoes" android:checkable="true"/>
+    <item android:title="Disneyland Monorail" android:checkable="true"/>
+    <item android:title="Disneyland Railroad" android:checkable="true"/>
+    <item android:title="Donald\'s Boat" android:checkable="true"/>
+    <item android:title="Dumbo the Flying Elephant" android:checkable="true"/>
+    <item android:title="Enchanted Tiki Room" android:checkable="true"/>
+    <item android:title="Finding Nemo Submarine Voyage" android:checkable="true"/>
+    <item android:title="Fire Engine, presented by National Car Rental" android:checkable="true"/>
+    <item android:title="Frontierland Shootin\' Exposition" android:checkable="true"/>
+    <item android:title="Gadget\'s Go Coaster" android:checkable="true"/>
+    <item android:title="Goofy\'s Playhouse" android:checkable="true"/>
+    <item android:title="Haunted Mansion" android:checkable="true"/>
+    <item android:title="Horse-Drawn Streetcars, presented by National Car Rental" android:checkable="true"/>
+    <item android:title="Horseless Carriage, presented by National Car Rental" android:checkable="true"/>
+    <item android:title="Indiana Jones Adventure " android:checkable="true"/>
+    <item android:title="Jungle Cruise" android:checkable="true"/>
+    <item android:title="King Arthur Carrousel" android:checkable="true"/>
+    <item android:title="Mad Tea Party " android:checkable="true"/>
+    <item android:title="Main Street Cinema" android:checkable="true"/>
+    <item android:title="Mark Twain Riverboat" android:checkable="true"/>
+    <item android:title="Matterhorn Bobsleds" android:checkable="true"/>
+    <item android:title="Mickey\'s House and Meet Mickey" android:checkable="true"/>
+    <item android:title="Minnie\'s House" android:checkable="true"/>
+    <item android:title="Mr. Toad\'s Wild Ride " android:checkable="true"/>
+    <item android:title="Omnibus, presented by National Car Rental" android:checkable="true"/>
+    <item android:title="Peter Pan\'s Flight " android:checkable="true"/>
+    <item android:title="Pinocchio\'s Daring Journey" android:checkable="true"/>
+    <item android:title="Pirate\'s Lair on Tom Sawyer Island" android:checkable="true"/>
+    <item android:title="Pirates of the Caribbean " android:checkable="true"/>
+    <item android:title="Roger Rabbit\'s Car Toon Spin" android:checkable="true"/>
+    <item android:title="Sailing Ship Columbia" android:checkable="true"/>
+    <item android:title="Sleeping Beauty Castle Walkthrough" android:checkable="true"/>
+    <item android:title="Snow White\'s Scary Adventures" android:checkable="true"/>
+    <item android:title="Space Mountain" android:checkable="true"/>
+    <item android:title="Splash Mountain" android:checkable="true"/>
+    <item android:title="Star Tours - The Adventures Continue" android:checkable="true"/>
+    <item android:title="Storybook Land Canal Boats" android:checkable="true"/>
+    <item android:title="Tarzan\'s Treehouse" android:checkable="true"/>
+    <item android:title="The Many Adventures of Winnie the Pooh" android:checkable="true"/>
+    <item android:title="The Disneyland Story presenting Great Moments with Mr. Lincoln" android:checkable="true"/>
+    <item android:title="it\'s a small world" android:checkable="true"/>
+    <item android:title="Alice in Wonderland" android:checkable="true"/>
+    <item android:title="Main Street Vehicles" android:checkable="true"/>
+    <item android:title="Pixie Hollow" android:checkable="true"/>
+    <item android:title="Fantasmic!" android:checkable="true"/>
+    <item android:title="The Disney Gallery" android:checkable="true"/>
+    <item android:title="Trick-or-Treating at Mickey’s Halloween Party" android:checkable="true"/>
+    <item android:title="Jingle Cruise" android:checkable="true"/>
+    <item android:title="it\'s a small world Holiday" android:checkable="true"/>
+    <item android:title="Star Wars Launch Bay" android:checkable="true"/>
+    <item android:title="Hyperspace Mountain" android:checkable="true"/>
+    <item android:title="Star Wars: Path of the Jedi" android:checkable="true"/>
+    <item android:title="Haunted Mansion Holiday" android:checkable="true"/>
+    <item android:title="Space Mountain Ghost Galaxy" android:checkable="true"/>
+    <item android:title="Main Street Pumpkin Festival" android:checkable="true"/>
+    <item android:title="Holiday Décor" android:checkable="true"/>
+    <item android:title="Mickey\'s Park Rangers on the Rivers of America" android:checkable="true"/>
+</menu>

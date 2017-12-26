@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/filterBy"
+        android:title="filterby"
+        app:showAsAction="always"
+        android:icon="@drawable/abc">
+    </item>
+
+    <item
+        android:id="@+id/filterOrder"
+        android:title="Sort Order"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ascending">
+
+    </item>
+
+    <item
+        app:showAsAction="always"
+        android:title="more"
+        android:icon="@drawable/menu"
+        >
+        <menu>
+            <item
+                android:title="Show Closed Rides"
+                android:id="@+id/showClosed"
+                android:checkable="true"/>
+        </menu>
+    </item>
+</menu>

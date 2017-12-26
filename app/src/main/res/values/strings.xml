@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">Smart Park Disney</string>
+    <string name="navigation_drawer_open">Drawer Open</string>
+    <string name="navigation_drawer_close">Drawer Closed</string>
+    <string name="api_key">AIzaSyAa0Jd_vDSgH02jrRFXCRKew7R6PrnVMAo</string>
+    <string name="about">
+        SmartPark Disney App for Android\nVersion 1.0.0\nSmartPark Disney is a trademark of SmartPark
+        Inc.\nAll rights reserved
+    </string>
+    <string name="SpaceMID">Ride ID: DisneylandResortMagicKingdom_353435"</string>
+    <string name="SplashMID">Ride ID: DisneylandResortMagicKingdom_353437</string>
+    <string name="info">
+        4:17 pm\n
+        7/27/17 \n
+        Park Hours: 8am - 10pm
+    </string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="arraryOfRides">
+        <item>Astro Orbitor</item>
+        <item>Autopia</item>
+        <item>Big Thunder Mountain Railroad</item>
+        <item>Buzz Lightyear Astro Blasters </item>
+        <item>Casey Jr. Circus Train</item>
+        <item>Chip \'n Dale Treehouse</item>
+        <item>Davy Crockett\'s Explorer Canoes</item>
+        <item>Disneyland Monorail</item>
+        <item>Disneyland Railroad</item>
+        <item>Donald\'s Boat</item>
+        <item>Dumbo the Flying Elephant</item>
+        <item>Enchanted Tiki Room</item>
+        <item>Finding Nemo Submarine Voyage</item>
+        <item>Fire Engine, presented by National Car Rental</item>
+        <item>Frontierland Shootin\' Exposition</item>
+        <item>Gadget\'s Go Coaster</item>
+        <item>Goofy\'s Playhouse</item>
+        <item>Haunted Mansion</item>
+        <item>Horse-Drawn Streetcars, presented by National Car Rental</item>
+        <item>Horseless Carriage, presented by National Car Rental</item>
+        <item>Indiana Jones Adventure </item>
+        <item>Jungle Cruise</item>
+        <item>King Arthur Carrousel</item>
+        <item>Mad Tea Party </item>
+        <item>Main Street Cinema</item>
+        <item>Mark Twain Riverboat</item>
+        <item>Matterhorn Bobsleds</item>
+        <item>Mickey\'s House and Meet Mickey</item>
+        <item>Minnie\'s House</item>
+        <item>Mr. Toad\'s Wild Ride </item>
+        <item>Omnibus, presented by National Car Rental</item>
+        <item>Peter Pan\'s Flight </item>
+        <item>Pinocchio\'s Daring Journey</item>
+        <item>Pirate\'s Lair on Tom Sawyer Island</item>
+        <item>Pirates of the Caribbean </item>
+        <item>Roger Rabbit\'s Car Toon Spin</item>
+        <item>Sailing Ship Columbia</item>
+        <item>Sleeping Beauty Castle Walkthrough</item>
+        <item>Snow White\'s Scary Adventures</item>
+        <item>Space Mountain</item>
+        <item>Splash Mountain</item>
+        <item>Star Tours - The Adventures Continue</item>
+        <item>Storybook Land Canal Boats</item>
+        <item>Tarzan\'s Treehouse</item>
+        <item>The Many Adventures of Winnie the Pooh</item>
+        <item>The Disneyland Story presenting Great Moments with Mr. Lincoln</item>
+        <item>"it\'s a small world"</item>
+        <item>Alice in Wonderland</item>
+        <item>Main Street Vehicles</item>
+        <item>Pixie Hollow</item>
+        <item>Fantasmic!</item>
+        <item>The Disney Gallery</item>
+        <item>Trick-or-Treating at Mickey’s Halloween Party</item>
+        <item>Jingle Cruise</item>
+        <item>"it\'s a small world" Holiday</item>
+        <item>Star Wars Launch Bay</item>
+        <item>Hyperspace Mountain</item>
+        <item>Star Wars: Path of the Jedi</item>
+        <item>Haunted Mansion Holiday</item>
+        <item>Space Mountain Ghost Galaxy</item>
+        <item>Main Street Pumpkin Festival</item>
+        <item>Holiday Décor</item>
+        <item>Mickey\'s Park Rangers on the Rivers of America</item>
+    </string-array>
+    <string-array name="ids">
+        <item>DisneylandResortMagicKingdom_353291</item>
+        <item>DisneylandResortMagicKingdom_353293</item>
+        <item>DisneylandResortMagicKingdom_353295</item>
+        <item>DisneylandResortMagicKingdom_353301</item>
+        <item>DisneylandResortMagicKingdom_353305</item>
+        <item>DisneylandResortMagicKingdom_353309</item>
+        <item>DisneylandResortMagicKingdom_353311</item>
+        <item>DisneylandResortMagicKingdom_353313</item>
+        <item>DisneylandResortMagicKingdom_353315</item>
+        <item>DisneylandResortMagicKingdom_353321</item>
+        <item>DisneylandResortMagicKingdom_353323</item>
+        <item>DisneylandResortMagicKingdom_353325</item>
+        <item>DisneylandResortMagicKingdom_353327</item>
+        <item>DisneylandResortMagicKingdom_353329</item>
+        <item>DisneylandResortMagicKingdom_353335</item>
+        <item>DisneylandResortMagicKingdom_353337</item>
+        <item>DisneylandResortMagicKingdom_353343</item>
+        <item>DisneylandResortMagicKingdom_353347</item>
+        <item>DisneylandResortMagicKingdom_353351</item>
+        <item>DisneylandResortMagicKingdom_353353</item>
+        <item>DisneylandResortMagicKingdom_353355</item>
+        <item>DisneylandResortMagicKingdom_353363</item>
+        <item>DisneylandResortMagicKingdom_353365</item>
+        <item>DisneylandResortMagicKingdom_353369</item>
+        <item>DisneylandResortMagicKingdom_353371</item>
+        <item>DisneylandResortMagicKingdom_353375</item>
+        <item>DisneylandResortMagicKingdom_353377</item>
+        <item>DisneylandResortMagicKingdom_353381</item>
+        <item>DisneylandResortMagicKingdom_353383</item>
+        <item>DisneylandResortMagicKingdom_353389</item>
+        <item>DisneylandResortMagicKingdom_353395</item>
+        <item>DisneylandResortMagicKingdom_353399</item>
+        <item>DisneylandResortMagicKingdom_353401</item>
+        <item>DisneylandResortMagicKingdom_353403</item>
+        <item>DisneylandResortMagicKingdom_353405</item>
+        <item>DisneylandResortMagicKingdom_353421</item>
+        <item>DisneylandResortMagicKingdom_353425</item>
+        <item>DisneylandResortMagicKingdom_353427</item>
+        <item>DisneylandResortMagicKingdom_353429</item>
+        <item>DisneylandResortMagicKingdom_353435</item>
+        <item>DisneylandResortMagicKingdom_353437</item>
+        <item>DisneylandResortMagicKingdom_353439</item>
+        <item>DisneylandResortMagicKingdom_353443</item>
+        <item>DisneylandResortMagicKingdom_353445</item>
+        <item>DisneylandResortMagicKingdom_353449</item>
+        <item>DisneylandResortMagicKingdom_353461</item>
+        <item>DisneylandResortMagicKingdom_367492</item>
+        <item>DisneylandResortMagicKingdom_367495</item>
+        <item>DisneylandResortMagicKingdom_393385</item>
+        <item>DisneylandResortMagicKingdom_3433651</item>
+        <item>DisneylandResortMagicKingdom_16204726</item>
+        <item>DisneylandResortMagicKingdom_17734741</item>
+        <item>DisneylandResortMagicKingdom_18171939</item>
+        <item>DisneylandResortMagicKingdom_18237168</item>
+        <item>DisneylandResortMagicKingdom_18237232</item>
+        <item>DisneylandResortMagicKingdom_18237343</item>
+        <item>DisneylandResortMagicKingdom_18237368</item>
+        <item>DisneylandResortMagicKingdom_18243993</item>
+        <item>DisneylandResortMagicKingdom_18249927</item>
+        <item>DisneylandResortMagicKingdom_18449559</item>
+        <item>DisneylandResortMagicKingdom_18452199</item>
+        <item>DisneylandResortMagicKingdom_18532806</item>
+        <item>DisneylandResortMagicKingdom_18741420</item>
+    </string-array>
+    <string name="title_activity_smart_plan">SmartPlanActivity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
